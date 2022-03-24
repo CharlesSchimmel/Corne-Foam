@@ -1,5 +1,7 @@
 # Corne-Foam
-DXF Files for Corne V3 Foam. I made these in mind for IMK, But should work on other corne cases. 
+SVG files based on for Corne V3 foam that include space for diodes.
+
+I made these in mind for IMK, But should work on other corne cases. 
 
 Recommended Heights. 
 
