@@ -1,5 +1,6 @@
 # Corne-Foam
-SVG files based on for Corne V3 foam that include space for diodes.
+SVG files for Corne V3 that include space for diodes. Based on ObliviousGmn's 
+work
 
 I made these in mind for IMK, But should work on other corne cases. 
 
